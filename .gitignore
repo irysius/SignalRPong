@@ -1,0 +1,12 @@
+# don't ignore myself!
+!.git
+
+# Visual Studio specific files
+bin/
+obj/
+*.suo
+*.user
+
+# NuGet
+packages/
+
